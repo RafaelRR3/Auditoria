@@ -148,5 +148,5 @@ Este projeto foi desenvolvido como parte de um portfólio para a área de **Audi
 
 ## Autor
 
-**[ Seu nome ]**  
-[LinkedIn](https://linkedin.com/in/seu-perfil) · [Portfolio](https://seu-site.com)
+**Rafael Rachidi da Rocha**  
+www.linkedin.com/in/rafael-rachidi-851016308
