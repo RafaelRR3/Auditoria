@@ -92,3 +92,11 @@ vigentes:
 ### Critérios de classificação
 
 **Probabilidade:** Alta = padrão histórico conhecido / Média = possível, sem evidência / Baixa = improvável
+
+**Impacto:** Alto = risco financeiro ou legal relevante / Médio = falha de processo / Baixo = inconsistência pontual
+
+---
+
+## 6. Abordagem Metodológica — COSO
+
+Os cinco componentes
