@@ -99,4 +99,40 @@ vigentes:
 
 ## 6. Abordagem Metodológica — COSO
 
-Os cinco componentes
+Os cinco componentes do COSO foram avaliados quanto à aplicabilidade neste projeto:
+
+| Componente | Aplicação neste projeto | Status |  
+| --- | --- | --- |  
+| Ambiente de controle | Análise do contexto normativo e das políticas de pagamento | ✅ Aplicável |
+| Avaliação de riscos | Matriz de riscos R01-R06 desta fase | ✅ Aplicável |
+| Atividades de controle | Testes de auditoria nas Fases 3 e 4 | ✅ Aplicável |
+| Informação e comunicação | Fora do escopo por limitação de acesso a sistemas internos | ⚠️ Parcial |
+| Atividades de monitoramento | Dashboard de anomalias na Fase 4 | ✅ Aplicável |
+
+---
+
+## 7. Cronagrama da Fase 1
+
+| Dia | Atividade | Entregável |
+| --- | --- | --- |
+| 1-2 | Definição de escopo e objetivos | Seções 2 e 3 deste documento |
+| 3-4 | Pesquisa normativa | Seção 4 - Referência normativa |
+| 5-6 | Elaboração da matriz de riscos | Seção 5 - Matriz de riscos |
+| 7 | Revisão e versionamento | `docs/documento_planejamento_v1.md`v1.0 |
+
+---
+
+## 8. Aprovação
+
+> **Revisando e aprovado em 15/05/20026.**
+> Escopo confirmado. Riscos identificados e documentados.Autorizado o avanço para a Fase 2 - Coleta de Dados.
+>
+> Assinatura: Rafael Rachidi da Rocha
+
+---
+
+## Histórico de versões
+
+| Versão | Data | Descrição |
+| --- | --- | --- |
+| 1.0 | 15/05/2026 | Versão inicial - planejamento completo da Fase 1 |
